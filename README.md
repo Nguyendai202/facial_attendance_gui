@@ -17,6 +17,6 @@ Result :
 
 Repost : 
 
-![repost](image_process/repost.jpg)
+![repost](image_process/repost.png)
 
 
