@@ -1,0 +1,7 @@
+numpy
+opencv-contrib-python==3.9.13
+PyQt5
+pyqt5-tools
+db-sqlite3
+numpy
+# conda-env-base
